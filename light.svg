@@ -241,29 +241,30 @@
       <g>
         <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="6s" repeatCount="indefinite" ease="easeInOut" />
 
-        <!-- High-Density Developer Silhouette ASCII Art -->
+        <!-- Photo-Accurate Silhouette ASCII Art -->
         <g class="font-mono" font-size="9.5" font-weight="700" fill="url(#ascii-grad-light)" letter-spacing="0px">
-          <text x="235" y="116" text-anchor="middle" opacity="0.95">                  .::^^^^^^::.                  </text>
-          <text x="235" y="134" text-anchor="middle" opacity="0.95">              .::^^^^~~~~~~~~^^^^::.            </text>
-          <text x="235" y="152" text-anchor="middle" opacity="0.95">           .:^^~~~~~~~~~~~~~~~~~~~~^^:.         </text>
-          <text x="235" y="170" text-anchor="middle" opacity="0.95">         .:^~~~~~~~~~~~~~~~~~~~~~~~~~~^:.       </text>
-          <text x="235" y="188" text-anchor="middle" opacity="0.95">        .:^~~~~~~~~~^^^^^^^^~~~~~~~~~~~^:.      </text>
-          <text x="235" y="206" text-anchor="middle" opacity="0.95">       .:^~~~~~~~^^::        ::^^~~~~~~~^:.     </text>
-          <text x="235" y="224" text-anchor="middle" opacity="0.95">       .:^~~~~~^:  .::::::::.  :^~~~~~~~^:.     </text>
-          <text x="235" y="242" text-anchor="middle" opacity="1.00">       .:^~~~~:   .##%@@@@%##.   :~~~~~~^:.     </text>
-          <text x="235" y="260" text-anchor="middle" opacity="1.00">      [|.:^~~:   .##%@@@@@@%##.   :~~~~^:.|]    </text>
-          <text x="235" y="278" text-anchor="middle" opacity="1.00">      [|.:^~~:   :##%@@@@@@%##:   :~~~~^:.|]    </text>
-          <text x="235" y="296" text-anchor="middle" opacity="1.00">       .:^~~~:    *##%@@@@%##*    :~~~~~^:.     </text>
-          <text x="235" y="314" text-anchor="middle" opacity="1.00">       .:^~~~~:    &#x27;::^^^^::&#x27;    :~~~~~~^:.     </text>
-          <text x="235" y="332" text-anchor="middle" opacity="1.00">       .:^~~~~~^::              ::^~~~~~^:.     </text>
-          <text x="235" y="350" text-anchor="middle" opacity="0.95">        .:^~~~~~~~^^^^^^^^^^^^^^~~~~~~~~^:.     </text>
-          <text x="235" y="368" text-anchor="middle" opacity="0.95">         .:^~~~~~~~~~~~~~~~~~~~~~~~~~~^:.       </text>
-          <text x="235" y="386" text-anchor="middle" opacity="0.95">          .:^^~~~~~~~~~~~~~~~~~~~~~~^^:.        </text>
-          <text x="235" y="404" text-anchor="middle" opacity="0.95">        .---&#x27;&#x27;:^^^~~~~~~~~~~~~~~^^^:&#x27;&#x27;---.      </text>
-          <text x="235" y="422" text-anchor="middle" opacity="0.85">      ./      .:::^^^^^^^^^^^^^^:::.      \.    </text>
-          <text x="235" y="440" text-anchor="middle" opacity="0.85">     /                                      \   </text>
-          <text x="235" y="458" text-anchor="middle" opacity="0.85">    |             ALFERID ZEINU              |  </text>
-          <text x="235" y="476" text-anchor="middle" opacity="0.85">    |           SOFTWARE ENGINEER            |  </text>
+          <text x="235" y="118" text-anchor="middle" opacity="0.95">              *#%%@@@%@@::%#              </text>
+          <text x="235" y="136" text-anchor="middle" opacity="0.95">           %%@@@@#*=-+--..--=#@           </text>
+          <text x="235" y="154" text-anchor="middle" opacity="0.95">           %@@%+---+*#+***===-=           </text>
+          <text x="235" y="172" text-anchor="middle" opacity="0.95">         %%%@#==+%@@@@@@@##@@%*--         </text>
+          <text x="235" y="190" text-anchor="middle" opacity="0.95">         %@%--#@@@%=---:. .+*%@%=         </text>
+          <text x="235" y="208" text-anchor="middle" opacity="0.95">         %%+=@@@@#-:::--::::--+@%         </text>
+          <text x="235" y="226" text-anchor="middle" opacity="1.00">         @@#@@@@@=-:--::::---:.*@         </text>
+          <text x="235" y="244" text-anchor="middle" opacity="1.00">          +=*@@@#-:-=+=::::=-.:#          </text>
+          <text x="235" y="262" text-anchor="middle" opacity="1.00">          ###+=+-.-==+#=:=**+-=@          </text>
+          <text x="235" y="280" text-anchor="middle" opacity="1.00">          @@%===-:::---. =+====%          </text>
+          <text x="235" y="298" text-anchor="middle" opacity="1.00">          +#%=+=-:::::--:-:-:--=          </text>
+          <text x="235" y="316" text-anchor="middle" opacity="1.00">          %%@@@=----+=++++=--++#          </text>
+          <text x="235" y="334" text-anchor="middle" opacity="1.00">          %##**+=---=--==+===-:-          </text>
+          <text x="235" y="352" text-anchor="middle" opacity="1.00">              :=++=--:----=+-..           </text>
+          <text x="235" y="370" text-anchor="middle" opacity="0.95">           +*+===+++=---=++****           </text>
+          <text x="235" y="388" text-anchor="middle" opacity="0.95">           +%*+========+++*+=**           </text>
+          <text x="235" y="406" text-anchor="middle" opacity="0.95">       ===++*%#++======+++##..:=+**       </text>
+          <text x="235" y="424" text-anchor="middle" opacity="0.85">       +*+****####*+++*##%@=     .:       </text>
+          <text x="235" y="442" text-anchor="middle" opacity="0.85">   +==**#*###**#%%####%%%%*:    .    .:   </text>
+          <text x="235" y="460" text-anchor="middle" opacity="0.85">   *#+*+*#*%%%%@@@@@%%%%%%@#-...:... .    </text>
+          <text x="235" y="478" text-anchor="middle" opacity="0.85"> -*%%%#**#*#####%%@@#%@@@#-       =-..    </text>
+          <text x="235" y="496" text-anchor="middle" opacity="0.85"> *#%@%#%%####*####%%%%%%#-      .:#**=--: </text>
         </g>
       </g>
 
